@@ -8,3 +8,4 @@ Video game where the player must escape a chasing goose into a safe zone. Built 
 - randomly generated spawns, walls, safezone, teleporters
 - goose shoots projectile objects called spitballs at the player
 
+![goose chase](https://github.com/chenalan02/MTE-121-Goose-Chase/blob/main/Goose%20Chase.JPG)
