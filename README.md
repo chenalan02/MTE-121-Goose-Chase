@@ -12,7 +12,7 @@ Video game where the player must escape a chasing goose into a safe zone. Built 
 @ - Player  
 O - Wall  
 G - Goose  
-# - Teleporter  
+/# - Teleporter  
 % - Safezone  
 *** - Projectile/Spitball  
 
